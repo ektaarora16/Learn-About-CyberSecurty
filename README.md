@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84700316/137579748-cf28d5d0-f3f4-4003-94aa-264dc57b8ebe.png" width=300px>
+  <img src="https://user-images.githubusercontent.com/84700316/137579822-f14091ae-ccb3-4333-aaf6-6af82d3433d0.png" width=300px>
   </p>
+
 
 <h1 align="center"> Learn-About-CyberSecurty </h1>
 <p align="center"> Cybersecurity technology and best practices protect critical systems and sensitive information from an ever-growing volume of continually evolving threats. </p>
